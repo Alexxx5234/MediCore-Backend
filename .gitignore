@@ -1,0 +1,10 @@
+target/
+.idea/
+*.iml
+*.log
+.env
+.vscode/
+
+CorsConfig.java.respaldo
+
+src/main/resources/application-local.properties
